@@ -1,0 +1,32 @@
+{
+  "project_info": {
+    "project_number": "259792257603",
+    "firebase_url": "https://ping-pong-study-default-rtdb.firebaseio.com",
+    "project_id": "ping-pong-study",
+    "storage_bucket": "ping-pong-study.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:259792257603:android:ff6a27c0799d2d1db90af6",
+        "android_client_info": {
+          "package_name": "com.FourEyes.Pingpong"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD8T0qpExw3jv6VGUlXZh4eFIJMShUN5h8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
+
+
